@@ -1,10 +1,9 @@
-# Bachelor Thesis - Final Year Project - Medical Bracelet sends data (Heart-rate / ECG) to Webpage and Mobile App in real-time
+# Medical Bracelet sends data (Heart-rate / ECG) to Webpage and Mobile App in real-time
 - Development of a **portable medical bracelet** which combined both heart rate and electrocardiogram measurements transmitted wirelessly to a webpage and a mobile application in real-time 
 - Achieved heart-rate measurements with **error of only 0.46% when compared to Apple Watch** 
 - Sensor interface using **Arduino IDE**
 - Webpage development using **Ubidots IoT Cloud Service**
 - Mobile App development using **Blynk**
-- Achieved **82% in the Bachelor Thesis (First-Class)**
 
 ## Organisation of Repository
 - In `CAD_Models`, the 3D CAD designs of the bracelet are included which were implemented in **SolidWorks and 3D-printed**
