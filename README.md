@@ -10,3 +10,6 @@
 - In `Component_Testing`, the source code used to test the heart-rate, ECG sensors and the Wi-Fi modules is presented (**Arduino and C++**)
 - In `PCB`, the designs of the PCB integrating all components are found designed in **Altium PCB Designer**
 - In `Reports`, all the **files that documented the progress of the project** throughout the year are presented
+
+<img width="912" height="613" alt="Screenshot 2026-04-06 at 23 01 09" src="https://github.com/user-attachments/assets/a0f30f00-13bb-488a-bc11-1b07ae291a3f" />
+
